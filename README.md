@@ -43,4 +43,4 @@ node-project/
 │
 └── .github/
     └── workflows/
-        └── ci-cd.yml
+        └── main.yml
